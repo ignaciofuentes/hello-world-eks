@@ -1,6 +1,6 @@
 // Load the http module to create an http server.
 var http = require("http");
-let port = 80;
+let port = 3000;
 
 // Configure our HTTP server to respond with Hello World to all requests.
 var server = http.createServer((request, response) => {

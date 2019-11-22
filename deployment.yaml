@@ -19,4 +19,4 @@ spec:
           image: 264144530906.dkr.ecr.us-east-1.amazonaws.com/nodeapp:latest
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort: 80
+            - containerPort: 3000
